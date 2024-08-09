@@ -1,0 +1,10 @@
+start,end,text,speaker,neg,neu,pos,compound,sentiment_category
+1.36,6.103," Hi, my name is Sam and welcome to my next gen AI guy YouTube channel.",SPEAKER_00,0.0,0.824,0.176,0.4588,Positive
+7.184,9.485,Most people put it at four years.,SPEAKER_02,0.0,1.0,0.0,0.0,Neutral
+9.525,14.008,"He's getting, getting along in time and he's not what he used to be.",SPEAKER_02,0.0,1.0,0.0,0.0,Neutral
+14.228,16.81,"You know, when you talk to him, he's a little difficult.",SPEAKER_02,0.197,0.803,0.0,-0.2975,Negative
+16.83,19.291,"Like he had a, he struggled with some questions.",SPEAKER_02,0.202,0.588,0.21,0.0258,Neutral
+19.311,28.497,"Um, but I think, which is another endlessly interesting, tragic thought that I think about a lot is how we humans go,",SPEAKER_03,0.163,0.692,0.145,-0.1154,Negative
+29.392,35.961," Meanwhile, your AI is just getting smarter and smarter and smarter infinitely, including in terms of time.",SPEAKER_03,0.0,0.609,0.391,0.8402,Positive
+36.482,38.184,And we just deteriorate.,SPEAKER_03,0.0,1.0,0.0,0.0,Neutral
+38.344,38.665,For now.,SPEAKER_02,0.0,1.0,0.0,0.0,Neutral
